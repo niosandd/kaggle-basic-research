@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn[standard]
+pandas
+requests
+kaggle
+python-dotenv
+pydantic
+honcho
