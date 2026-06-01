@@ -1,0 +1,2 @@
+# ================== API КЛЮЧИ ==================
+BOTHUB_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE2NTJlYzdjLTNmYzktNDA1My1hNWE0LTE1YzY3MjA3MzhhYyIsImlzRGV2ZWxvcGVyIjp0cnVlLCJpYXQiOjE3Nzk4MDQ4NzksImV4cCI6MjA5NTM4MDg3OSwianRpIjoiM1FoajdNMS1QWmFIZzhrLSJ9.DffFtHEuLFu5tmicogLsRISK2MjcwctmvdLx-PrxDsc"
